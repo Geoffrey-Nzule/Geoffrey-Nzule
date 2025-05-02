@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Geoffrey Nzule, Full-Stack Developer passionate about building scalable web and mobile applications</h1>
+<h1>Hi 👋, I'm Geoffrey Nzule,  passionate about building scalable web and mobile applications</h1>
 <p> Lets Build</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
